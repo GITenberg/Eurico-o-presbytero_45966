@@ -1,0 +1,37 @@
+_repo: Eurico-o-presbytero_45966
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Herculano, Alexandre
+    aliases:
+    - De Carvalho e Araújo, Alexandre Herculano
+    - Herculano, Alejandro
+    - Araujo, Alexandre Herculano de Carvalho e
+    - Herculano, A. (Alexandre)
+    - Carvalho e Araujo, Alexandre Herculano de
+    birthdate: 1810
+    deathdate: 1877
+    gutenberg_agent_id: '3118'
+    url: http://www.gutenberg.org/2009/agents/3118
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Alexandre_Herculano_de_Carvalho_e_Araujo
+    - http://pt.wikipedia.org/wiki/Alexandre_Herculano
+description: ''
+gutenberg_issued: '2014-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45966'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spain -- History -- Gothic period, 414-711 -- Fiction'
+- !lcsh 'Visigoths -- Spain -- History -- Fiction'
+- !lcsh 'Celibacy -- Catholic Church -- Fiction'
+title: Eurico, o presbytero
+url: http://www.gutenberg.org/ebooks/45966
